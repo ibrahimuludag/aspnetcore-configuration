@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "03-commandline-configuration": {
+      "commandName": "Project",
+      "commandLineArgs": "Song=Leviating Info:Age=30",
+      "environmentVariables": {
+        "Song": "New Rules",
+        "Info__Age" : "32"
+      }
+    }
+  }
+}

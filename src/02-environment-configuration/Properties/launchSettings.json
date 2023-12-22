@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "02-environment-configuration": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Song": "New Rules"
+      }
+    }
+  }
+}
